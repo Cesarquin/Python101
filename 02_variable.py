@@ -19,3 +19,5 @@ lento = False
 print("Mi nombre es", nombre, "y mi apellido es", apellido, "La edad", edad)
 print("La estatura * 2 es igual a:", estatura * 2)
 print(nombre * 2)
+# 1. formatos de impresion
+# 2. formatos input()

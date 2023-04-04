@@ -1,6 +1,8 @@
 # ****OPERACIONES ARITMETICAS*****
-# SUMA +, RESTA -, MULTI *, DIVI /, DIV ENTERA //, Jerarquia: (), **, * /, + -
+# SUMA +, RESTA -, MULTI *, DIVI /, DIV ENTERA //
 # RESIDUO O MÓDULO %, POTENCIA **.
+# Jerarquia: (), **, * /, + -  
+#             P  E  M  D  A  S 
 number = int(input('Digite un número: '))
 print(f'La suma con 2 es: {number + 2}')
 print(f'La resta con 2 es: {number - 2}')

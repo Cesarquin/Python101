@@ -39,4 +39,3 @@ print('Operador in:')
 nombre = 'Cesar Quintero'
 print('Q' in nombre)
 print('z' in nombre)
-
